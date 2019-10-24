@@ -27,4 +27,10 @@ def remove_strawberry(contacts)
     favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
   }
 }
+
+ contacts.each do |attribute, data|
+   attribute.each do |attribute, value|
+     if 
+   end 
+  end 
 end
